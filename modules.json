@@ -1,0 +1,10 @@
+{
+    "custom/nautilus": {
+        "label": "",
+        "tooltip": "Nautilus",
+        "truncationSize": -1,
+        "execute": "bash -c 'nautilus --new-window ~/'",
+        "executeOnAction": "",
+        "hideOnEmpty": true
+    }
+}
